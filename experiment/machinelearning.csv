@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in robotics concerned with building physical machines | c: A field of study in biology concerned with the study of machines in living organisms | d: A field of study in physics concerned with the study of machines in motion,a
+Which field has machine learning NOT been applied to?,a: Large language models | b: Astronomy | c: Speech recognition | d: Medicine,b
+What is the mathematical foundation of machine learning?,a: Calculus | b: Algebra | c: Mathematical optimization | d: Geometry,c
+What is data mining focused on?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Deep learning,b
+Which framework provides a theoretical point of view for describing machine learning?,a: Deep learning | b: Probably approximately correct learning | c: Reinforcement learning | d: Supervised learning,b
