@@ -1,6 +1,6 @@
 MCQ,Choices,Correct
-What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in robotics concerned with building physical machines | c: A field of study in biology concerned with the study of machines in living organisms | d: A field of study in physics concerned with the study of machines in motion,a
-Which field has machine learning NOT been applied to?,a: Large language models | b: Astronomy | c: Speech recognition | d: Medicine,b
-What is the mathematical foundation of machine learning?,a: Calculus | b: Algebra | c: Mathematical optimization | d: Geometry,c
-What is data mining focused on?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Deep learning,b
-Which framework provides a theoretical point of view for describing machine learning?,a: Deep learning | b: Probably approximately correct learning | c: Reinforcement learning | d: Supervised learning,b
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in robotics concerned with building physical machines | c: A field of study in biology concerned with plant learning behavior | d: A field of study in chemistry concerned with chemical reactions,a
+What have generative artificial neural networks been able to surpass?,a: Previous approaches in performance | b: Current approaches in performance | c: Future approaches in performance | d: No approaches in performance,a
+Which field has machine learning approaches been applied to?,a: Computer vision | b: Music composition | c: Fashion design | d: Interior decorating,a
+What provides the mathematical foundations of machine learning?,a: Mathematical optimization methods | b: Artistic expression | c: Historical anecdotes | d: Musical theory,a
+What is data mining focused on?,a: Exploratory data analysis through unsupervised learning | b: Exploratory data analysis through supervised learning | c: Exploratory data analysis through reinforcement learning | d: Exploratory data analysis through random guessing,a
